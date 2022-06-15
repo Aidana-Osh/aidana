@@ -14,3 +14,12 @@ header {
 .link-header {
     background-color:yellowgreen;
 }
+
+.socials {
+    display: flex;
+    justify-content: center;
+}
+
+.social {
+    margin: 20px;
+}
